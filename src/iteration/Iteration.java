@@ -27,8 +27,8 @@ public class Iteration {
         int upto = 0;
 
         Console c = System.console();
-        String stimes = c.readLine("Enter times:");
-        String sseed = c.readLine("Enter seed:");
+        String stimes = "3";
+        String sseed = "4";
         seed = Integer.parseInt(sseed);
         upto = Integer.parseInt(stimes);
 

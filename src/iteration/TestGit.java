@@ -14,5 +14,7 @@ public class TestGit {
     private void printSomething(){
         System.out.println("Something");
         System.out.println("And say something more");
+        System.out.println("This is Branch 2");
+        System.out.println("This is Branch 3");
     }
 }
